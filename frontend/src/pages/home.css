@@ -1,0 +1,126 @@
+.tag-line{
+    font-size: 50px;
+    font-weight: 900;
+    max-width: 700px;
+    line-height: 55px;
+    margin: 0 auto;
+    text-align: center;
+    letter-spacing: -.5px;
+}
+section .inner{
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 50px;
+   
+}
+.tit-ce{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.hero{
+    padding: 100px 0;
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.29) 0%, rgba(255, 255, 255, 0.29) 48.5%, rgba(0, 128, 128, 0.29) 100%);
+}
+.how{
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.29) 0%, rgba(255, 255, 255, 0.29) 48.5%, rgba(0, 128, 128, 0.29) 100%);
+    padding: 60px 0;
+}
+.cta{
+margin: 0 auto;
+}
+.subline{
+    max-width: 600px;
+    font-weight: 500;
+    color: gray;
+    line-height: 23px;
+    margin: 20px auto;
+
+}
+.stacked-box .row{
+border: 1px solid rgb(196, 196, 196);  
+ border-radius: 13px;
+background: white;
+margin: 20px 50px;
+box-shadow: 0 2px 5px 0px rgb(240, 240, 240);
+box-shadow:inset 0 0 1px 3px rgb(255, 255, 255);
+background: linear-gradient(40deg, rgba(255, 255, 255, 1) 50%, #ffeff967 40%);
+
+
+
+padding: 40px;
+position: sticky;
+top: 30px;
+}
+.stacked-box .row:nth-child(2){
+    top: 60px;
+    background: linear-gradient(220deg, rgba(255, 255, 255, 1) 50%, #ffeff967 40%);
+    background-color: #fff;
+}
+.stacked-box .row:nth-child(3){
+    top: 90px;
+    background-color: #fff;
+   
+}
+.stacked-box .row:nth-child(4){
+    background: linear-gradient(220deg, rgba(255, 255, 255, 1) 50%, #ffeff967 40%);
+    background-color: white;
+}
+.stacked-box .row h3{
+    color: #008080;
+    margin-bottom: 15px;
+    
+}
+.staked-title{
+    font-size: 22px;;
+}
+.how h2{
+    font-family: "Lato", sans-serif;
+    letter-spacing: -.9px;
+    word-spacing: 5px;
+}
+.stacked-box .row svg{
+    margin-right: 10px;
+    margin-bottom: 3px;
+}
+.stacked-box .row ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.stacked-box .row ul li{
+    padding-bottom: 5px;
+    font-size: 16px;
+}
+.stacked-img{
+    height: 200px;
+    border: 10px solid white;
+    box-shadow: 3px 3px 1px 4px #c1c1c1;
+    border: 1px solid rgb(241, 241, 241);
+    overflow: hidden;
+}
+.stacked-img img{
+    height: 200px;
+}
+.apply img{
+    height: 500px;
+}
+.apply .inner{
+    border: 1px solid #b6b6b6;
+    border-radius: 20px;
+    box-shadow: 10px 10px 31px -10px rgba(189,189,189,1);
+    background: linear-gradient(5deg, rgba(255, 255, 255, 0.29) 0%, rgba(255, 255, 255, 0.29) 48.5%, rgba(216, 216, 216, 0.621) 100%);
+    
+}
+.apply h3{
+  color: #008080;
+  font-weight: 700;
+}
+.faq button{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+    background: white;
+    color: #000;
+}
