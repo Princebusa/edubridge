@@ -17,7 +17,7 @@ export default function Footer() {
         <div className="row">
           <div className="col-sm-12 col-md-6">
             <img className="pb-2" src={logo} alt="" />
-            <p className="text-justify footer-des">Scanfcode.com <i>CODE WANTS TO BE SIMPLE </i> is an initiative  to help the upcoming programmers with the code. Scanfcode focuses on providing the most efficient code or snippets as the code wants to be simple. We will help programmers build up concepts in different programming languages that include C, C++, Java, HTML, CSS, Bootstrap, JavaScript, PHP, Android, SQL and Algorithm.</p>
+            <p className="text-justify footer-des">EduBridge, under the Commissionerate of Technical Education, is a pioneering platform designed to simplify and streamline the college transfer process for students. Our goal is to provide a seamless, transparent, and efficient system that ensures students can transfer between colleges with ease.</p>
           </div>
   
           {/* <div className="col-xs-6 col-md-3">
